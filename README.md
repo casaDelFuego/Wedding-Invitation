@@ -1,6 +1,6 @@
 # Digital wedding card invitation
 
-It is the One Page application made in Vue.js that works as an wedding invitation with instant RSVP.
+It is the One Page application made in Vue.js that works as a wedding invitation with instant RSVP.
 
 As a database I used Firebase where I stored the info such as name, language and +1 about each guest.
 Then I created unique links and sent them out to all the guests.
